@@ -6,7 +6,6 @@ port="445 3389"
 for IP in $ip
 do
 	echo " ------------------------------------------------------- "
-	CURRENT_CVE=" "
 	for PORT in $port
 	do
 		CURRENT_CVE=" "
