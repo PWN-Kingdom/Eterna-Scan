@@ -9,4 +9,6 @@
 ![](./picture/help.png)
 
 ## Результат сканирования
-![](./picture/Result.png)
+![](./picture/find.png)
+
+![](./picture/error.png)
